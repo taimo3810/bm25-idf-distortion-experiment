@@ -1,0 +1,438 @@
+{
+  "k": 5,
+  "n_queries": 128,
+  "summary_metrics": {
+    "mixed_recall@5": {
+      "n": 128,
+      "mean": 0.9531,
+      "median": 1.0,
+      "p5": 0.0,
+      "p25": 1.0,
+      "p75": 1.0,
+      "p95": 1.0,
+      "min": 0.0,
+      "max": 1.0
+    },
+    "aonly_recall@5": {
+      "n": 128,
+      "mean": 1.0,
+      "median": 1.0,
+      "p5": 1.0,
+      "p25": 1.0,
+      "p75": 1.0,
+      "p95": 1.0,
+      "min": 1.0,
+      "max": 1.0
+    },
+    "harm_recall5": {
+      "n": 128,
+      "mean": 0.0469,
+      "median": 0.0,
+      "p5": 0.0,
+      "p25": 0.0,
+      "p75": 0.0,
+      "p95": 0.0,
+      "min": 0.0,
+      "max": 1.0
+    },
+    "mixed_ndcg@5": {
+      "n": 128,
+      "mean": 0.8906,
+      "median": 1.0,
+      "p5": 0.0,
+      "p25": 1.0,
+      "p75": 1.0,
+      "p95": 1.0,
+      "min": 0.0,
+      "max": 1.0
+    },
+    "aonly_ndcg@5": {
+      "n": 128,
+      "mean": 0.9701,
+      "median": 1.0,
+      "p5": 0.6309,
+      "p25": 1.0,
+      "p75": 1.0,
+      "p95": 1.0,
+      "min": 0.5,
+      "max": 1.0
+    },
+    "harm_ndcg5": {
+      "n": 128,
+      "mean": 0.0795,
+      "median": 0.0,
+      "p5": 0.0,
+      "p25": 0.0,
+      "p75": 0.0,
+      "p95": 0.5693,
+      "min": -0.3691,
+      "max": 1.0
+    },
+    "mixed_mrr": {
+      "n": 128,
+      "mean": 0.8746,
+      "median": 1.0,
+      "p5": 0.1667,
+      "p25": 1.0,
+      "p75": 1.0,
+      "p95": 1.0,
+      "min": 0.0476,
+      "max": 1.0
+    },
+    "aonly_mrr": {
+      "n": 128,
+      "mean": 0.9596,
+      "median": 1.0,
+      "p5": 0.5,
+      "p25": 1.0,
+      "p75": 1.0,
+      "p95": 1.0,
+      "min": 0.3333,
+      "max": 1.0
+    },
+    "harm_mrr": {
+      "n": 128,
+      "mean": 0.085,
+      "median": 0.0,
+      "p5": 0.0,
+      "p25": 0.0,
+      "p75": 0.0,
+      "p95": 0.6667,
+      "min": -0.5,
+      "max": 0.9524
+    }
+  },
+  "harm_buckets": {
+    "recall5": {
+      "positive": 6,
+      "zero": 122,
+      "negative": 0
+    },
+    "ndcg5": {
+      "positive": 21,
+      "zero": 104,
+      "negative": 3
+    },
+    "mrr": {
+      "positive": 21,
+      "zero": 104,
+      "negative": 3
+    }
+  },
+  "by_gap": {
+    "<5": {
+      "n": 28,
+      "mean_harm_ndcg5": 0.0,
+      "max_harm_ndcg5": 0.3691,
+      "mean_harm_recall5": 0.0,
+      "n_pos_ndcg5": 1,
+      "n_pos_recall5": 0
+    },
+    "5-7": {
+      "n": 54,
+      "mean_harm_ndcg5": 0.0628,
+      "max_harm_ndcg5": 1.0,
+      "mean_harm_recall5": 0.0556,
+      "n_pos_ndcg5": 8,
+      "n_pos_recall5": 3
+    },
+    "7-10": {
+      "n": 30,
+      "mean_harm_ndcg5": 0.1769,
+      "max_harm_ndcg5": 1.0,
+      "mean_harm_recall5": 0.1,
+      "n_pos_ndcg5": 9,
+      "n_pos_recall5": 3
+    },
+    "10-15": {
+      "n": 12,
+      "mean_harm_ndcg5": 0.1235,
+      "max_harm_ndcg5": 0.6131,
+      "mean_harm_recall5": 0.0,
+      "n_pos_ndcg5": 3,
+      "n_pos_recall5": 0
+    },
+    "≥15": {
+      "n": 4,
+      "mean_harm_ndcg5": 0.0,
+      "max_harm_ndcg5": 0.0,
+      "mean_harm_recall5": 0.0,
+      "n_pos_ndcg5": 0,
+      "n_pos_recall5": 0
+    }
+  },
+  "by_tenant": {
+    "finance": {
+      "n": 28,
+      "mean_harm_ndcg5": 0.1514,
+      "max_harm_ndcg5": 1.0,
+      "mean_harm_recall5": 0.0714,
+      "n_pos_ndcg5": 7,
+      "n_pos_recall5": 2
+    },
+    "it": {
+      "n": 34,
+      "mean_harm_ndcg5": 0.0371,
+      "max_harm_ndcg5": 0.5,
+      "mean_harm_recall5": 0.0294,
+      "n_pos_ndcg5": 5,
+      "n_pos_recall5": 1
+    },
+    "manufacturing": {
+      "n": 30,
+      "mean_harm_ndcg5": 0.0081,
+      "max_harm_ndcg5": 0.6131,
+      "mean_harm_recall5": 0.0,
+      "n_pos_ndcg5": 2,
+      "n_pos_recall5": 0
+    },
+    "public": {
+      "n": 14,
+      "mean_harm_ndcg5": 0.1027,
+      "max_harm_ndcg5": 0.5693,
+      "mean_harm_recall5": 0.0,
+      "n_pos_ndcg5": 3,
+      "n_pos_recall5": 0
+    },
+    "retail": {
+      "n": 22,
+      "mean_harm_ndcg5": 0.1364,
+      "max_harm_ndcg5": 1.0,
+      "mean_harm_recall5": 0.1364,
+      "n_pos_ndcg5": 4,
+      "n_pos_recall5": 3
+    }
+  },
+  "top_harm_queries": [
+    {
+      "tenant": "finance",
+      "query": "住宅ローン 様式 気候関連リスク",
+      "term": "様式",
+      "gap": 5.89,
+      "mixed_rank": 8,
+      "aonly_rank": 1,
+      "mixed_ndcg5": 0.0,
+      "aonly_ndcg5": 1.0,
+      "harm_ndcg5": 1.0,
+      "harm_recall5": 1.0
+    },
+    {
+      "tenant": "retail",
+      "query": "課税に関する小売販売業の手続き",
+      "term": "課税",
+      "gap": 8.48,
+      "mixed_rank": 7,
+      "aonly_rank": 1,
+      "mixed_ndcg5": 0.0,
+      "aonly_ndcg5": 1.0,
+      "harm_ndcg5": 1.0,
+      "harm_recall5": 1.0
+    },
+    {
+      "tenant": "retail",
+      "query": "医薬品の資格について",
+      "term": "資格",
+      "gap": 7.08,
+      "mixed_rank": 6,
+      "aonly_rank": 1,
+      "mixed_ndcg5": 0.0,
+      "aonly_ndcg5": 1.0,
+      "harm_ndcg5": 1.0,
+      "harm_recall5": 1.0
+    },
+    {
+      "tenant": "finance",
+      "query": "連絡先についての情報を探している",
+      "term": "連絡",
+      "gap": 5.98,
+      "mixed_rank": 21,
+      "aonly_rank": 1,
+      "mixed_ndcg5": 0.0,
+      "aonly_ndcg5": 1.0,
+      "harm_ndcg5": 1.0,
+      "harm_recall5": 1.0
+    },
+    {
+      "tenant": "retail",
+      "query": "証明に必要な書類は何ですか",
+      "term": "証明",
+      "gap": 7.61,
+      "mixed_rank": 12,
+      "aonly_rank": 2,
+      "mixed_ndcg5": 0.0,
+      "aonly_ndcg5": 0.6309,
+      "harm_ndcg5": 0.6309,
+      "harm_recall5": 1.0
+    },
+    {
+      "tenant": "manufacturing",
+      "query": "労働災害 請求の影響を知りたい",
+      "term": "請求",
+      "gap": 11.35,
+      "mixed_rank": 5,
+      "aonly_rank": 1,
+      "mixed_ndcg5": 0.3869,
+      "aonly_ndcg5": 1.0,
+      "harm_ndcg5": 0.6131,
+      "harm_recall5": 0.0
+    },
+    {
+      "tenant": "public",
+      "query": "譲渡 返礼品の基準",
+      "term": "譲渡",
+      "gap": 8.74,
+      "mixed_rank": 4,
+      "aonly_rank": 1,
+      "mixed_ndcg5": 0.4307,
+      "aonly_ndcg5": 1.0,
+      "harm_ndcg5": 0.5693,
+      "harm_recall5": 0.0
+    },
+    {
+      "tenant": "finance",
+      "query": "試験 サステナブルファイナンスの育成",
+      "term": "試験",
+      "gap": 5.54,
+      "mixed_rank": 3,
+      "aonly_rank": 1,
+      "mixed_ndcg5": 0.5,
+      "aonly_ndcg5": 1.0,
+      "harm_ndcg5": 0.5,
+      "harm_recall5": 0.0
+    },
+    {
+      "tenant": "finance",
+      "query": "気候関連リスク ホームページ",
+      "term": "ホームページ",
+      "gap": 8.46,
+      "mixed_rank": 3,
+      "aonly_rank": 1,
+      "mixed_ndcg5": 0.5,
+      "aonly_ndcg5": 1.0,
+      "harm_ndcg5": 0.5,
+      "harm_recall5": 0.0
+    },
+    {
+      "tenant": "public",
+      "query": "サービスの導入運用 ページ",
+      "term": "ページ",
+      "gap": 10.41,
+      "mixed_rank": 3,
+      "aonly_rank": 1,
+      "mixed_ndcg5": 0.5,
+      "aonly_ndcg5": 1.0,
+      "harm_ndcg5": 0.5,
+      "harm_recall5": 0.0
+    },
+    {
+      "tenant": "it",
+      "query": "情報通信エンジニア 提出方法",
+      "term": "提出",
+      "gap": 6.5,
+      "mixed_rank": 10,
+      "aonly_rank": 3,
+      "mixed_ndcg5": 0.0,
+      "aonly_ndcg5": 0.5,
+      "harm_ndcg5": 0.5,
+      "harm_recall5": 1.0
+    },
+    {
+      "tenant": "finance",
+      "query": "火災保険の補助について知りたい",
+      "term": "補助",
+      "gap": 6.32,
+      "mixed_rank": 3,
+      "aonly_rank": 1,
+      "mixed_ndcg5": 0.5,
+      "aonly_ndcg5": 1.0,
+      "harm_ndcg5": 0.5,
+      "harm_recall5": 0.0
+    },
+    {
+      "tenant": "it",
+      "query": "施行 情報通信エンジニア スキルアップガイドライン",
+      "term": "施行",
+      "gap": 8.54,
+      "mixed_rank": 3,
+      "aonly_rank": 1,
+      "mixed_ndcg5": 0.5,
+      "aonly_ndcg5": 1.0,
+      "harm_ndcg5": 0.5,
+      "harm_recall5": 0.0
+    },
+    {
+      "tenant": "retail",
+      "query": "スーパーマーケット 排出 影響",
+      "term": "排出",
+      "gap": 5.57,
+      "mixed_rank": 2,
+      "aonly_rank": 1,
+      "mixed_ndcg5": 0.6309,
+      "aonly_ndcg5": 1.0,
+      "harm_ndcg5": 0.3691,
+      "harm_recall5": 0.0
+    },
+    {
+      "tenant": "finance",
+      "query": "住宅ローン影響分析 ホームページ",
+      "term": "ホームページ",
+      "gap": 8.46,
+      "mixed_rank": 2,
+      "aonly_rank": 1,
+      "mixed_ndcg5": 0.6309,
+      "aonly_ndcg5": 1.0,
+      "harm_ndcg5": 0.3691,
+      "harm_recall5": 0.0
+    }
+  ],
+  "pushed_out_top5": [
+    {
+      "tenant": "finance",
+      "query": "住宅ローン 様式 気候関連リスク",
+      "term": "様式",
+      "gap": 5.89,
+      "mixed_rank": 8,
+      "aonly_rank": 1
+    },
+    {
+      "tenant": "retail",
+      "query": "課税に関する小売販売業の手続き",
+      "term": "課税",
+      "gap": 8.48,
+      "mixed_rank": 7,
+      "aonly_rank": 1
+    },
+    {
+      "tenant": "it",
+      "query": "情報通信エンジニア 提出方法",
+      "term": "提出",
+      "gap": 6.5,
+      "mixed_rank": 10,
+      "aonly_rank": 3
+    },
+    {
+      "tenant": "retail",
+      "query": "証明に必要な書類は何ですか",
+      "term": "証明",
+      "gap": 7.61,
+      "mixed_rank": 12,
+      "aonly_rank": 2
+    },
+    {
+      "tenant": "retail",
+      "query": "医薬品の資格について",
+      "term": "資格",
+      "gap": 7.08,
+      "mixed_rank": 6,
+      "aonly_rank": 1
+    },
+    {
+      "tenant": "finance",
+      "query": "連絡先についての情報を探している",
+      "term": "連絡",
+      "gap": 5.98,
+      "mixed_rank": 21,
+      "aonly_rank": 1
+    }
+  ]
+}

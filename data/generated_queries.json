@@ -1,0 +1,1285 @@
+{
+  "n_queries": 128,
+  "queries": [
+    {
+      "tenant": "it",
+      "term": "法令",
+      "query": "法令と分野別要件整理表",
+      "target_file_name": "skillup_guideline.pdf",
+      "target_chunk_doc_id": "it__skillup_guideline.pdf__p16",
+      "subset_count": 8,
+      "global_count": 2522,
+      "gap": 4.47
+    },
+    {
+      "tenant": "it",
+      "term": "法令",
+      "query": "法令に関する技術要件は？",
+      "target_file_name": "skillup_guideline.pdf",
+      "target_chunk_doc_id": "it__skillup_guideline.pdf__p16",
+      "subset_count": 8,
+      "global_count": 2522,
+      "gap": 4.47
+    },
+    {
+      "tenant": "retail",
+      "term": "排出",
+      "query": "レジ袋 廃棄 排出 について",
+      "target_file_name": "hakusho2021-01.pdf",
+      "target_chunk_doc_id": "retail__hakusho2021-01.pdf__p16",
+      "subset_count": 1,
+      "global_count": 543,
+      "gap": 5.57
+    },
+    {
+      "tenant": "retail",
+      "term": "排出",
+      "query": "スーパーマーケット 排出 影響",
+      "target_file_name": "hakusho2021-01.pdf",
+      "target_chunk_doc_id": "retail__hakusho2021-01.pdf__p16",
+      "subset_count": 1,
+      "global_count": 543,
+      "gap": 5.57
+    },
+    {
+      "tenant": "manufacturing",
+      "term": "事務",
+      "query": "安全衛生委員会の事務について",
+      "target_file_name": "110329-1a.pdf",
+      "target_chunk_doc_id": "manufacturing__110329-1a.pdf__p20",
+      "subset_count": 2,
+      "global_count": 1412,
+      "gap": 6.99
+    },
+    {
+      "tenant": "manufacturing",
+      "term": "事務",
+      "query": "安全衛生管理の事務手続き",
+      "target_file_name": "110329-1a.pdf",
+      "target_chunk_doc_id": "manufacturing__110329-1a.pdf__p20",
+      "subset_count": 2,
+      "global_count": 1412,
+      "gap": 6.99
+    },
+    {
+      "tenant": "public",
+      "term": "リスク",
+      "query": "リスクと省エネ住宅の関係",
+      "target_file_name": "①地域脱炭素ロードマップ.pdf",
+      "target_chunk_doc_id": "public__①地域脱炭素ロードマップ.pdf__p15",
+      "subset_count": 2,
+      "global_count": 502,
+      "gap": 4.11
+    },
+    {
+      "tenant": "public",
+      "term": "リスク",
+      "query": "住宅のリスクと断熱性能",
+      "target_file_name": "①地域脱炭素ロードマップ.pdf",
+      "target_chunk_doc_id": "public__①地域脱炭素ロードマップ.pdf__p15",
+      "subset_count": 2,
+      "global_count": 502,
+      "gap": 4.11
+    },
+    {
+      "tenant": "it",
+      "term": "支払",
+      "query": "支払方法の表示ルール",
+      "target_file_name": "Criteria_for_advertise_ver13f2.pdf",
+      "target_chunk_doc_id": "it__Criteria_for_advertise_ver13f2.pdf__p14",
+      "subset_count": 1,
+      "global_count": 542,
+      "gap": 7.69
+    },
+    {
+      "tenant": "it",
+      "term": "支払",
+      "query": "支払に関する注記の注意点",
+      "target_file_name": "Criteria_for_advertise_ver13f2.pdf",
+      "target_chunk_doc_id": "it__Criteria_for_advertise_ver13f2.pdf__p14",
+      "subset_count": 1,
+      "global_count": 542,
+      "gap": 7.69
+    },
+    {
+      "tenant": "manufacturing",
+      "term": "サービス",
+      "query": "JAS 認証サービスについて",
+      "target_file_name": "index-11.pdf",
+      "target_chunk_doc_id": "manufacturing__index-11.pdf__p16",
+      "subset_count": 2,
+      "global_count": 963,
+      "gap": 4.76
+    },
+    {
+      "tenant": "manufacturing",
+      "term": "サービス",
+      "query": "登録認証機関のサービス確認",
+      "target_file_name": "index-11.pdf",
+      "target_chunk_doc_id": "manufacturing__index-11.pdf__p16",
+      "subset_count": 2,
+      "global_count": 963,
+      "gap": 4.76
+    },
+    {
+      "tenant": "finance",
+      "term": "様式",
+      "query": "住宅ローン 様式 気候関連リスク",
+      "target_file_name": "DP2023-2.pdf",
+      "target_chunk_doc_id": "finance__DP2023-2.pdf__p5",
+      "subset_count": 1,
+      "global_count": 621,
+      "gap": 5.89
+    },
+    {
+      "tenant": "finance",
+      "term": "様式",
+      "query": "貸出ポートフォリオ 様式 評価手法",
+      "target_file_name": "DP2023-2.pdf",
+      "target_chunk_doc_id": "finance__DP2023-2.pdf__p5",
+      "subset_count": 1,
+      "global_count": 621,
+      "gap": 5.89
+    },
+    {
+      "tenant": "finance",
+      "term": "試験",
+      "query": "試験 ESG投信に関する情報",
+      "target_file_name": "230829_main.pdf",
+      "target_chunk_doc_id": "finance__230829_main.pdf__p16",
+      "subset_count": 1,
+      "global_count": 584,
+      "gap": 5.54
+    },
+    {
+      "tenant": "finance",
+      "term": "試験",
+      "query": "試験 サステナブルファイナンスの育成",
+      "target_file_name": "230829_main.pdf",
+      "target_chunk_doc_id": "finance__230829_main.pdf__p16",
+      "subset_count": 1,
+      "global_count": 584,
+      "gap": 5.54
+    },
+    {
+      "tenant": "manufacturing",
+      "term": "要件",
+      "query": "安全衛生管理者の要件",
+      "target_file_name": "110329-1a.pdf",
+      "target_chunk_doc_id": "manufacturing__110329-1a.pdf__p16",
+      "subset_count": 3,
+      "global_count": 1228,
+      "gap": 4.05
+    },
+    {
+      "tenant": "manufacturing",
+      "term": "要件",
+      "query": "労働者数に応じた要件",
+      "target_file_name": "110329-1a.pdf",
+      "target_chunk_doc_id": "manufacturing__110329-1a.pdf__p16",
+      "subset_count": 3,
+      "global_count": 1228,
+      "gap": 4.05
+    },
+    {
+      "tenant": "retail",
+      "term": "相当",
+      "query": "栄養成分の表示に食塩相当量は必要？",
+      "target_file_name": "food_labeling_cms202_221202_01.pdf",
+      "target_chunk_doc_id": "retail__food_labeling_cms202_221202_01.pdf__p33",
+      "subset_count": 1,
+      "global_count": 537,
+      "gap": 5.51
+    },
+    {
+      "tenant": "retail",
+      "term": "相当",
+      "query": "栄養成分表示における相当量の例",
+      "target_file_name": "food_labeling_cms202_221202_01.pdf",
+      "target_chunk_doc_id": "retail__food_labeling_cms202_221202_01.pdf__p33",
+      "subset_count": 1,
+      "global_count": 537,
+      "gap": 5.51
+    },
+    {
+      "tenant": "it",
+      "term": "公共",
+      "query": "公共 イベント データ 共通理解",
+      "target_file_name": "000096537.pdf",
+      "target_chunk_doc_id": "it__000096537.pdf__p5",
+      "subset_count": 1,
+      "global_count": 530,
+      "gap": 7.52
+    },
+    {
+      "tenant": "it",
+      "term": "公共",
+      "query": "公共 データの精度 更新頻度",
+      "target_file_name": "000096537.pdf",
+      "target_chunk_doc_id": "it__000096537.pdf__p5",
+      "subset_count": 1,
+      "global_count": 530,
+      "gap": 7.52
+    },
+    {
+      "tenant": "finance",
+      "term": "書類",
+      "query": "GX投資に関する書類",
+      "target_file_name": "230829_main.pdf",
+      "target_chunk_doc_id": "finance__230829_main.pdf__p15",
+      "subset_count": 1,
+      "global_count": 1086,
+      "gap": 10.3
+    },
+    {
+      "tenant": "finance",
+      "term": "書類",
+      "query": "ESG評価機関の書類",
+      "target_file_name": "230829_main.pdf",
+      "target_chunk_doc_id": "finance__230829_main.pdf__p15",
+      "subset_count": 1,
+      "global_count": 1086,
+      "gap": 10.3
+    },
+    {
+      "tenant": "retail",
+      "term": "所得",
+      "query": "所得の保存期間について教えて",
+      "target_file_name": "manual-kouri.pdf",
+      "target_chunk_doc_id": "retail__manual-kouri.pdf__p48",
+      "subset_count": 1,
+      "global_count": 909,
+      "gap": 9.33
+    },
+    {
+      "tenant": "retail",
+      "term": "所得",
+      "query": "所得税法の記録保存期間は？",
+      "target_file_name": "manual-kouri.pdf",
+      "target_chunk_doc_id": "retail__manual-kouri.pdf__p48",
+      "subset_count": 1,
+      "global_count": 909,
+      "gap": 9.33
+    },
+    {
+      "tenant": "it",
+      "term": "様式",
+      "query": "様式 XBRL タクソノミ に関する情報",
+      "target_file_name": "000096537.pdf",
+      "target_chunk_doc_id": "it__000096537.pdf__p35",
+      "subset_count": 2,
+      "global_count": 621,
+      "gap": 4.4
+    },
+    {
+      "tenant": "it",
+      "term": "様式",
+      "query": "有価証券報告書 様式 の例",
+      "target_file_name": "000096537.pdf",
+      "target_chunk_doc_id": "it__000096537.pdf__p35",
+      "subset_count": 2,
+      "global_count": 621,
+      "gap": 4.4
+    },
+    {
+      "tenant": "manufacturing",
+      "term": "取扱い",
+      "query": "取扱い T/N量の表示方法",
+      "target_file_name": "190619_06.pdf",
+      "target_chunk_doc_id": "manufacturing__190619_06.pdf__p5",
+      "subset_count": 1,
+      "global_count": 637,
+      "gap": 6.3
+    },
+    {
+      "tenant": "manufacturing",
+      "term": "取扱い",
+      "query": "取扱い タールとニコチンの基準",
+      "target_file_name": "190619_06.pdf",
+      "target_chunk_doc_id": "manufacturing__190619_06.pdf__p5",
+      "subset_count": 1,
+      "global_count": 637,
+      "gap": 6.3
+    },
+    {
+      "tenant": "retail",
+      "term": "大学",
+      "query": "大学 トレーサビリティ 委員会",
+      "target_file_name": "manual-kouri.pdf",
+      "target_chunk_doc_id": "retail__manual-kouri.pdf__p49",
+      "subset_count": 1,
+      "global_count": 507,
+      "gap": 5.21
+    },
+    {
+      "tenant": "retail",
+      "term": "大学",
+      "query": "大学 農林水産省 小売業",
+      "target_file_name": "manual-kouri.pdf",
+      "target_chunk_doc_id": "retail__manual-kouri.pdf__p49",
+      "subset_count": 1,
+      "global_count": 507,
+      "gap": 5.21
+    },
+    {
+      "tenant": "finance",
+      "term": "製品",
+      "query": "金融製品のデジタル化に関する情報",
+      "target_file_name": "230829_main.pdf",
+      "target_chunk_doc_id": "finance__230829_main.pdf__p16",
+      "subset_count": 1,
+      "global_count": 575,
+      "gap": 5.45
+    },
+    {
+      "tenant": "finance",
+      "term": "製品",
+      "query": "ESG投信に関連する金融製品の指針",
+      "target_file_name": "230829_main.pdf",
+      "target_chunk_doc_id": "finance__230829_main.pdf__p16",
+      "subset_count": 1,
+      "global_count": 575,
+      "gap": 5.45
+    },
+    {
+      "tenant": "manufacturing",
+      "term": "発行",
+      "query": "JAS活用マニュアル 発行日",
+      "target_file_name": "index-11.pdf",
+      "target_chunk_doc_id": "manufacturing__index-11.pdf__p30",
+      "subset_count": 2,
+      "global_count": 813,
+      "gap": 4.02
+    },
+    {
+      "tenant": "manufacturing",
+      "term": "発行",
+      "query": "発行者 日本農林規格協会",
+      "target_file_name": "index-11.pdf",
+      "target_chunk_doc_id": "manufacturing__index-11.pdf__p30",
+      "subset_count": 2,
+      "global_count": 813,
+      "gap": 4.02
+    },
+    {
+      "tenant": "it",
+      "term": "特例",
+      "query": "特例の認定研修について",
+      "target_file_name": "skillup_guideline.pdf",
+      "target_chunk_doc_id": "it__skillup_guideline.pdf__p28",
+      "subset_count": 1,
+      "global_count": 506,
+      "gap": 7.18
+    },
+    {
+      "tenant": "it",
+      "term": "特例",
+      "query": "特例の受講時期は？",
+      "target_file_name": "skillup_guideline.pdf",
+      "target_chunk_doc_id": "it__skillup_guideline.pdf__p28",
+      "subset_count": 1,
+      "global_count": 506,
+      "gap": 7.18
+    },
+    {
+      "tenant": "finance",
+      "term": "ホームページ",
+      "query": "気候関連リスク ホームページ",
+      "target_file_name": "DP2023-2.pdf",
+      "target_chunk_doc_id": "finance__DP2023-2.pdf__p1",
+      "subset_count": 1,
+      "global_count": 892,
+      "gap": 8.46
+    },
+    {
+      "tenant": "finance",
+      "term": "ホームページ",
+      "query": "住宅ローン影響分析 ホームページ",
+      "target_file_name": "DP2023-2.pdf",
+      "target_chunk_doc_id": "finance__DP2023-2.pdf__p1",
+      "subset_count": 1,
+      "global_count": 892,
+      "gap": 8.46
+    },
+    {
+      "tenant": "it",
+      "term": "労働",
+      "query": "医療 添付文書 労働関連",
+      "target_file_name": "000096537.pdf",
+      "target_chunk_doc_id": "it__000096537.pdf__p37",
+      "subset_count": 3,
+      "global_count": 893,
+      "gap": 4.22
+    },
+    {
+      "tenant": "it",
+      "term": "労働",
+      "query": "XML 労働基準法 添付文書",
+      "target_file_name": "000096537.pdf",
+      "target_chunk_doc_id": "it__000096537.pdf__p37",
+      "subset_count": 3,
+      "global_count": 893,
+      "gap": 4.22
+    },
+    {
+      "tenant": "retail",
+      "term": "課税",
+      "query": "課税に関する小売販売業の手続き",
+      "target_file_name": "kouri_toriatsukaiyouryou.pdf",
+      "target_chunk_doc_id": "retail__kouri_toriatsukaiyouryou.pdf__p16",
+      "subset_count": 1,
+      "global_count": 826,
+      "gap": 8.48
+    },
+    {
+      "tenant": "retail",
+      "term": "課税",
+      "query": "小売業の課税と不許可通知について",
+      "target_file_name": "kouri_toriatsukaiyouryou.pdf",
+      "target_chunk_doc_id": "retail__kouri_toriatsukaiyouryou.pdf__p16",
+      "subset_count": 1,
+      "global_count": 826,
+      "gap": 8.48
+    },
+    {
+      "tenant": "public",
+      "term": "ページ",
+      "query": "住民記録システム ページ",
+      "target_file_name": "000857916.pdf",
+      "target_chunk_doc_id": "public__000857916.pdf__p26",
+      "subset_count": 1,
+      "global_count": 636,
+      "gap": 10.41
+    },
+    {
+      "tenant": "public",
+      "term": "ページ",
+      "query": "サービスの導入運用 ページ",
+      "target_file_name": "000857916.pdf",
+      "target_chunk_doc_id": "public__000857916.pdf__p26",
+      "subset_count": 1,
+      "global_count": 636,
+      "gap": 10.41
+    },
+    {
+      "tenant": "manufacturing",
+      "term": "調整",
+      "query": "高年齢労働者の職場改善 調整",
+      "target_file_name": "110329-1a.pdf",
+      "target_chunk_doc_id": "manufacturing__110329-1a.pdf__p60",
+      "subset_count": 1,
+      "global_count": 601,
+      "gap": 5.95
+    },
+    {
+      "tenant": "manufacturing",
+      "term": "調整",
+      "query": "作業速度の調整 方法を探す",
+      "target_file_name": "110329-1a.pdf",
+      "target_chunk_doc_id": "manufacturing__110329-1a.pdf__p60",
+      "subset_count": 1,
+      "global_count": 601,
+      "gap": 5.95
+    },
+    {
+      "tenant": "finance",
+      "term": "物質",
+      "query": "物質的な情報のデジタル化について",
+      "target_file_name": "230829_main.pdf",
+      "target_chunk_doc_id": "finance__230829_main.pdf__p16",
+      "subset_count": 1,
+      "global_count": 557,
+      "gap": 5.28
+    },
+    {
+      "tenant": "finance",
+      "term": "物質",
+      "query": "物質的プロセスの自動化に関する指針",
+      "target_file_name": "230829_main.pdf",
+      "target_chunk_doc_id": "finance__230829_main.pdf__p16",
+      "subset_count": 1,
+      "global_count": 557,
+      "gap": 5.28
+    },
+    {
+      "tenant": "it",
+      "term": "証明",
+      "query": "遠隔操作 証明 必要な機器",
+      "target_file_name": "IoTguidelineBetsu8kaisetsu_20230619.pdf",
+      "target_chunk_doc_id": "it__IoTguidelineBetsu8kaisetsu_20230619.pdf__p10",
+      "subset_count": 5,
+      "global_count": 1482,
+      "gap": 4.2
+    },
+    {
+      "tenant": "it",
+      "term": "証明",
+      "query": "遠隔操作の危険源 証明 方法",
+      "target_file_name": "IoTguidelineBetsu8kaisetsu_20230619.pdf",
+      "target_chunk_doc_id": "it__IoTguidelineBetsu8kaisetsu_20230619.pdf__p10",
+      "subset_count": 5,
+      "global_count": 1482,
+      "gap": 4.2
+    },
+    {
+      "tenant": "retail",
+      "term": "個人",
+      "query": "小売業の個人向け販売について",
+      "target_file_name": "manual-kouri.pdf",
+      "target_chunk_doc_id": "retail__manual-kouri.pdf__p7",
+      "subset_count": 3,
+      "global_count": 1518,
+      "gap": 5.19
+    },
+    {
+      "tenant": "retail",
+      "term": "個人",
+      "query": "無店舗小売業の個人への販売はどうか",
+      "target_file_name": "manual-kouri.pdf",
+      "target_chunk_doc_id": "retail__manual-kouri.pdf__p7",
+      "subset_count": 3,
+      "global_count": 1518,
+      "gap": 5.19
+    },
+    {
+      "tenant": "finance",
+      "term": "申請",
+      "query": "暗号資産 申請 規制動向",
+      "target_file_name": "jimukyoku.pdf",
+      "target_chunk_doc_id": "finance__jimukyoku.pdf__p13",
+      "subset_count": 3,
+      "global_count": 2610,
+      "gap": 8.25
+    },
+    {
+      "tenant": "finance",
+      "term": "申請",
+      "query": "香港 申請 暗号資産 免許",
+      "target_file_name": "jimukyoku.pdf",
+      "target_chunk_doc_id": "finance__jimukyoku.pdf__p13",
+      "subset_count": 3,
+      "global_count": 2610,
+      "gap": 8.25
+    },
+    {
+      "tenant": "it",
+      "term": "提出",
+      "query": "認定申請 提出 期限",
+      "target_file_name": "skillup_guideline.pdf",
+      "target_chunk_doc_id": "it__skillup_guideline.pdf__p28",
+      "subset_count": 5,
+      "global_count": 2290,
+      "gap": 6.5
+    },
+    {
+      "tenant": "it",
+      "term": "提出",
+      "query": "情報通信エンジニア 提出方法",
+      "target_file_name": "skillup_guideline.pdf",
+      "target_chunk_doc_id": "it__skillup_guideline.pdf__p28",
+      "subset_count": 5,
+      "global_count": 2290,
+      "gap": 6.5
+    },
+    {
+      "tenant": "retail",
+      "term": "証明",
+      "query": "証明書類の提出について教えて",
+      "target_file_name": "kouri_toriatsukaiyouryou.pdf",
+      "target_chunk_doc_id": "retail__kouri_toriatsukaiyouryou.pdf__p18",
+      "subset_count": 2,
+      "global_count": 1482,
+      "gap": 7.61
+    },
+    {
+      "tenant": "retail",
+      "term": "証明",
+      "query": "証明に必要な書類は何ですか",
+      "target_file_name": "kouri_toriatsukaiyouryou.pdf",
+      "target_chunk_doc_id": "retail__kouri_toriatsukaiyouryou.pdf__p18",
+      "subset_count": 2,
+      "global_count": 1482,
+      "gap": 7.61
+    },
+    {
+      "tenant": "retail",
+      "term": "資格",
+      "query": "医薬品の資格について",
+      "target_file_name": "000467835.pdf",
+      "target_chunk_doc_id": "retail__000467835.pdf__p24",
+      "subset_count": 1,
+      "global_count": 690,
+      "gap": 7.08
+    },
+    {
+      "tenant": "retail",
+      "term": "資格",
+      "query": "職員の資格と職務内容",
+      "target_file_name": "000467835.pdf",
+      "target_chunk_doc_id": "retail__000467835.pdf__p24",
+      "subset_count": 1,
+      "global_count": 690,
+      "gap": 7.08
+    },
+    {
+      "tenant": "finance",
+      "term": "算定",
+      "query": "MNGOトークンの担保価値算定",
+      "target_file_name": "jimukyoku.pdf",
+      "target_chunk_doc_id": "finance__jimukyoku.pdf__p28",
+      "subset_count": 1,
+      "global_count": 514,
+      "gap": 4.87
+    },
+    {
+      "tenant": "finance",
+      "term": "算定",
+      "query": "市場操作による担保価値算定",
+      "target_file_name": "jimukyoku.pdf",
+      "target_chunk_doc_id": "finance__jimukyoku.pdf__p28",
+      "subset_count": 1,
+      "global_count": 514,
+      "gap": 4.87
+    },
+    {
+      "tenant": "public",
+      "term": "譲渡",
+      "query": "譲渡 返礼品の基準",
+      "target_file_name": "000956094.pdf",
+      "target_chunk_doc_id": "public__000956094.pdf__p11",
+      "subset_count": 1,
+      "global_count": 534,
+      "gap": 8.74
+    },
+    {
+      "tenant": "public",
+      "term": "譲渡",
+      "query": "譲渡に関する募集条件",
+      "target_file_name": "000956094.pdf",
+      "target_chunk_doc_id": "public__000956094.pdf__p11",
+      "subset_count": 1,
+      "global_count": 534,
+      "gap": 8.74
+    },
+    {
+      "tenant": "finance",
+      "term": "証明",
+      "query": "取引モニタリング 証明",
+      "target_file_name": "20210830_2.pdf",
+      "target_chunk_doc_id": "finance__20210830_2.pdf__p2",
+      "subset_count": 2,
+      "global_count": 1482,
+      "gap": 7.03
+    },
+    {
+      "tenant": "finance",
+      "term": "証明",
+      "query": "実質的支配者情報 証明",
+      "target_file_name": "20210830_2.pdf",
+      "target_chunk_doc_id": "finance__20210830_2.pdf__p2",
+      "subset_count": 2,
+      "global_count": 1482,
+      "gap": 7.03
+    },
+    {
+      "tenant": "it",
+      "term": "請求",
+      "query": "IP電話 請求について",
+      "target_file_name": "Criteria_for_advertise_ver13f2.pdf",
+      "target_chunk_doc_id": "it__Criteria_for_advertise_ver13f2.pdf__p35",
+      "subset_count": 4,
+      "global_count": 1147,
+      "gap": 4.07
+    },
+    {
+      "tenant": "it",
+      "term": "請求",
+      "query": "迂回通信網 請求の表示",
+      "target_file_name": "Criteria_for_advertise_ver13f2.pdf",
+      "target_chunk_doc_id": "it__Criteria_for_advertise_ver13f2.pdf__p35",
+      "subset_count": 4,
+      "global_count": 1147,
+      "gap": 4.07
+    },
+    {
+      "tenant": "it",
+      "term": "手続",
+      "query": "クラウムの手続について教えて",
+      "target_file_name": "20230308-mxt_jogai01-000027984_001.pdf",
+      "target_chunk_doc_id": "it__20230308-mxt_jogai01-000027984_001.pdf__p6",
+      "subset_count": 3,
+      "global_count": 1190,
+      "gap": 5.63
+    },
+    {
+      "tenant": "it",
+      "term": "手続",
+      "query": "校務支援システムの手続は？",
+      "target_file_name": "20230308-mxt_jogai01-000027984_001.pdf",
+      "target_chunk_doc_id": "it__20230308-mxt_jogai01-000027984_001.pdf__p6",
+      "subset_count": 3,
+      "global_count": 1190,
+      "gap": 5.63
+    },
+    {
+      "tenant": "manufacturing",
+      "term": "学校",
+      "query": "学校での安全管理者要件",
+      "target_file_name": "110329-1a.pdf",
+      "target_chunk_doc_id": "manufacturing__110329-1a.pdf__p17",
+      "subset_count": 1,
+      "global_count": 562,
+      "gap": 5.56
+    },
+    {
+      "tenant": "manufacturing",
+      "term": "学校",
+      "query": "学校の衛生管理者について",
+      "target_file_name": "110329-1a.pdf",
+      "target_chunk_doc_id": "manufacturing__110329-1a.pdf__p17",
+      "subset_count": 1,
+      "global_count": 562,
+      "gap": 5.56
+    },
+    {
+      "tenant": "manufacturing",
+      "term": "希望",
+      "query": "希望するJASの問い合わせ先",
+      "target_file_name": "index-11.pdf",
+      "target_chunk_doc_id": "manufacturing__index-11.pdf__p29",
+      "subset_count": 1,
+      "global_count": 560,
+      "gap": 5.54
+    },
+    {
+      "tenant": "manufacturing",
+      "term": "希望",
+      "query": "新たなJASの提案希望先",
+      "target_file_name": "index-11.pdf",
+      "target_chunk_doc_id": "manufacturing__index-11.pdf__p29",
+      "subset_count": 1,
+      "global_count": 560,
+      "gap": 5.54
+    },
+    {
+      "tenant": "public",
+      "term": "計算",
+      "query": "脱炭素の経済規模 計算",
+      "target_file_name": "①地域脱炭素ロードマップ.pdf",
+      "target_chunk_doc_id": "public__①地域脱炭素ロードマップ.pdf__p11",
+      "subset_count": 2,
+      "global_count": 692,
+      "gap": 5.66
+    },
+    {
+      "tenant": "public",
+      "term": "計算",
+      "query": "取組状況の評価 計算",
+      "target_file_name": "①地域脱炭素ロードマップ.pdf",
+      "target_chunk_doc_id": "public__①地域脱炭素ロードマップ.pdf__p11",
+      "subset_count": 2,
+      "global_count": 692,
+      "gap": 5.66
+    },
+    {
+      "tenant": "it",
+      "term": "保険",
+      "query": "AI セキュリティ規則 保険",
+      "target_file_name": "report.pdf",
+      "target_chunk_doc_id": "it__report.pdf__p11",
+      "subset_count": 1,
+      "global_count": 1097,
+      "gap": 15.56
+    },
+    {
+      "tenant": "it",
+      "term": "保険",
+      "query": "保険業の AI 利用状況",
+      "target_file_name": "report.pdf",
+      "target_chunk_doc_id": "it__report.pdf__p11",
+      "subset_count": 1,
+      "global_count": 1097,
+      "gap": 15.56
+    },
+    {
+      "tenant": "manufacturing",
+      "term": "請求",
+      "query": "請求と労働災害の責任について",
+      "target_file_name": "110329-1a.pdf",
+      "target_chunk_doc_id": "manufacturing__110329-1a.pdf__p8",
+      "subset_count": 1,
+      "global_count": 1147,
+      "gap": 11.35
+    },
+    {
+      "tenant": "manufacturing",
+      "term": "請求",
+      "query": "労働災害 請求の影響を知りたい",
+      "target_file_name": "110329-1a.pdf",
+      "target_chunk_doc_id": "manufacturing__110329-1a.pdf__p8",
+      "subset_count": 1,
+      "global_count": 1147,
+      "gap": 11.35
+    },
+    {
+      "tenant": "retail",
+      "term": "申告",
+      "query": "申告 保存期間 法令",
+      "target_file_name": "manual-kouri.pdf",
+      "target_chunk_doc_id": "retail__manual-kouri.pdf__p48",
+      "subset_count": 1,
+      "global_count": 676,
+      "gap": 6.94
+    },
+    {
+      "tenant": "retail",
+      "term": "申告",
+      "query": "申告書類の保存年数",
+      "target_file_name": "manual-kouri.pdf",
+      "target_chunk_doc_id": "retail__manual-kouri.pdf__p48",
+      "subset_count": 1,
+      "global_count": 676,
+      "gap": 6.94
+    },
+    {
+      "tenant": "finance",
+      "term": "補助",
+      "query": "火災保険の補助について知りたい",
+      "target_file_name": "DP2023-2.pdf",
+      "target_chunk_doc_id": "finance__DP2023-2.pdf__p26",
+      "subset_count": 1,
+      "global_count": 666,
+      "gap": 6.32
+    },
+    {
+      "tenant": "finance",
+      "term": "補助",
+      "query": "移転促進の補助内容を調べる",
+      "target_file_name": "DP2023-2.pdf",
+      "target_chunk_doc_id": "finance__DP2023-2.pdf__p26",
+      "subset_count": 1,
+      "global_count": 666,
+      "gap": 6.32
+    },
+    {
+      "tenant": "finance",
+      "term": "通達",
+      "query": "通達 マネロン関連情報",
+      "target_file_name": "20210830_2.pdf",
+      "target_chunk_doc_id": "finance__20210830_2.pdf__p3",
+      "subset_count": 1,
+      "global_count": 1973,
+      "gap": 18.71
+    },
+    {
+      "tenant": "finance",
+      "term": "通達",
+      "query": "通達 テロ資金提供の強化",
+      "target_file_name": "20210830_2.pdf",
+      "target_chunk_doc_id": "finance__20210830_2.pdf__p3",
+      "subset_count": 1,
+      "global_count": 1973,
+      "gap": 18.71
+    },
+    {
+      "tenant": "manufacturing",
+      "term": "保険",
+      "query": "労災保険の手続きについて",
+      "target_file_name": "110329-1a.pdf",
+      "target_chunk_doc_id": "manufacturing__110329-1a.pdf__p63",
+      "subset_count": 2,
+      "global_count": 1097,
+      "gap": 5.43
+    },
+    {
+      "tenant": "manufacturing",
+      "term": "保険",
+      "query": "事故発生時の保険対応方法",
+      "target_file_name": "110329-1a.pdf",
+      "target_chunk_doc_id": "manufacturing__110329-1a.pdf__p63",
+      "subset_count": 2,
+      "global_count": 1097,
+      "gap": 5.43
+    },
+    {
+      "tenant": "it",
+      "term": "申請",
+      "query": "申請に必要な資格情報",
+      "target_file_name": "skillup_guideline.pdf",
+      "target_chunk_doc_id": "it__skillup_guideline.pdf__p26",
+      "subset_count": 7,
+      "global_count": 2610,
+      "gap": 5.29
+    },
+    {
+      "tenant": "it",
+      "term": "申請",
+      "query": "情報通信エンジニアの申請方法",
+      "target_file_name": "skillup_guideline.pdf",
+      "target_chunk_doc_id": "it__skillup_guideline.pdf__p26",
+      "subset_count": 7,
+      "global_count": 2610,
+      "gap": 5.29
+    },
+    {
+      "tenant": "finance",
+      "term": "番号",
+      "query": "担保価値操作の番号",
+      "target_file_name": "jimukyoku.pdf",
+      "target_chunk_doc_id": "finance__jimukyoku.pdf__p28",
+      "subset_count": 1,
+      "global_count": 1140,
+      "gap": 10.81
+    },
+    {
+      "tenant": "finance",
+      "term": "番号",
+      "query": "MNGOトークンの市場操作番号",
+      "target_file_name": "jimukyoku.pdf",
+      "target_chunk_doc_id": "finance__jimukyoku.pdf__p28",
+      "subset_count": 1,
+      "global_count": 1140,
+      "gap": 10.81
+    },
+    {
+      "tenant": "it",
+      "term": "施行",
+      "query": "施行 端末機器の種別 規定の見直し",
+      "target_file_name": "skillup_guideline.pdf",
+      "target_chunk_doc_id": "it__skillup_guideline.pdf__p4",
+      "subset_count": 2,
+      "global_count": 1204,
+      "gap": 8.54
+    },
+    {
+      "tenant": "it",
+      "term": "施行",
+      "query": "施行 情報通信エンジニア スキルアップガイドライン",
+      "target_file_name": "skillup_guideline.pdf",
+      "target_chunk_doc_id": "it__skillup_guideline.pdf__p4",
+      "subset_count": 2,
+      "global_count": 1204,
+      "gap": 8.54
+    },
+    {
+      "tenant": "public",
+      "term": "加入",
+      "query": "ドローン 飛行 加入 条件",
+      "target_file_name": "20231102_sesaku3.pdf",
+      "target_chunk_doc_id": "public__20231102_sesaku3.pdf__p7",
+      "subset_count": 2,
+      "global_count": 592,
+      "gap": 4.85
+    },
+    {
+      "tenant": "public",
+      "term": "加入",
+      "query": "無人航空機 加入 規制 について",
+      "target_file_name": "20231102_sesaku3.pdf",
+      "target_chunk_doc_id": "public__20231102_sesaku3.pdf__p7",
+      "subset_count": 2,
+      "global_count": 592,
+      "gap": 4.85
+    },
+    {
+      "tenant": "retail",
+      "term": "手続き",
+      "query": "温度マッピング 手続き",
+      "target_file_name": "000467835.pdf",
+      "target_chunk_doc_id": "retail__000467835.pdf__p39",
+      "subset_count": 1,
+      "global_count": 653,
+      "gap": 6.7
+    },
+    {
+      "tenant": "retail",
+      "term": "手続き",
+      "query": "倉庫バリデーション 手続き",
+      "target_file_name": "000467835.pdf",
+      "target_chunk_doc_id": "retail__000467835.pdf__p39",
+      "subset_count": 1,
+      "global_count": 653,
+      "gap": 6.7
+    },
+    {
+      "tenant": "manufacturing",
+      "term": "届出",
+      "query": "労災届出の手続きについて",
+      "target_file_name": "110329-1a.pdf",
+      "target_chunk_doc_id": "manufacturing__110329-1a.pdf__p63",
+      "subset_count": 1,
+      "global_count": 1098,
+      "gap": 10.87
+    },
+    {
+      "tenant": "manufacturing",
+      "term": "届出",
+      "query": "事故時の届出フローを知りたい",
+      "target_file_name": "110329-1a.pdf",
+      "target_chunk_doc_id": "manufacturing__110329-1a.pdf__p63",
+      "subset_count": 1,
+      "global_count": 1098,
+      "gap": 10.87
+    },
+    {
+      "tenant": "finance",
+      "term": "記載",
+      "query": "保険会社の社会的役割の記載",
+      "target_file_name": "01.pdf",
+      "target_chunk_doc_id": "finance__01.pdf__p2",
+      "subset_count": 4,
+      "global_count": 2606,
+      "gap": 6.18
+    },
+    {
+      "tenant": "finance",
+      "term": "記載",
+      "query": "環境変化と課題の記載",
+      "target_file_name": "01.pdf",
+      "target_chunk_doc_id": "finance__01.pdf__p2",
+      "subset_count": 4,
+      "global_count": 2606,
+      "gap": 6.18
+    },
+    {
+      "tenant": "it",
+      "term": "書類",
+      "query": "情報通信エンジニア 書類審査",
+      "target_file_name": "skillup_guideline.pdf",
+      "target_chunk_doc_id": "it__skillup_guideline.pdf__p26",
+      "subset_count": 3,
+      "global_count": 1086,
+      "gap": 5.13
+    },
+    {
+      "tenant": "it",
+      "term": "書類",
+      "query": "資格者証 取得 書類必要",
+      "target_file_name": "skillup_guideline.pdf",
+      "target_chunk_doc_id": "it__skillup_guideline.pdf__p26",
+      "subset_count": 3,
+      "global_count": 1086,
+      "gap": 5.13
+    },
+    {
+      "tenant": "manufacturing",
+      "term": "支払",
+      "query": "労働災害による支払責任",
+      "target_file_name": "110329-1a.pdf",
+      "target_chunk_doc_id": "manufacturing__110329-1a.pdf__p8",
+      "subset_count": 1,
+      "global_count": 542,
+      "gap": 5.36
+    },
+    {
+      "tenant": "manufacturing",
+      "term": "支払",
+      "query": "安全配慮義務違反の支払状況",
+      "target_file_name": "110329-1a.pdf",
+      "target_chunk_doc_id": "manufacturing__110329-1a.pdf__p8",
+      "subset_count": 1,
+      "global_count": 542,
+      "gap": 5.36
+    },
+    {
+      "tenant": "manufacturing",
+      "term": "年金",
+      "query": "金型 年金 ビジョン",
+      "target_file_name": "DM_Industry_Vision_3.0.pdf",
+      "target_chunk_doc_id": "manufacturing__DM_Industry_Vision_3.0.pdf__p50",
+      "subset_count": 1,
+      "global_count": 1064,
+      "gap": 10.53
+    },
+    {
+      "tenant": "manufacturing",
+      "term": "年金",
+      "query": "年金 金型産業 ドキュメント",
+      "target_file_name": "DM_Industry_Vision_3.0.pdf",
+      "target_chunk_doc_id": "manufacturing__DM_Industry_Vision_3.0.pdf__p50",
+      "subset_count": 1,
+      "global_count": 1064,
+      "gap": 10.53
+    },
+    {
+      "tenant": "public",
+      "term": "請求",
+      "query": "インボイス 請求 発行方法",
+      "target_file_name": "qa_futankeigen.pdf",
+      "target_chunk_doc_id": "public__qa_futankeigen.pdf__p14",
+      "subset_count": 4,
+      "global_count": 1147,
+      "gap": 4.69
+    },
+    {
+      "tenant": "public",
+      "term": "請求",
+      "query": "請求書 インボイス登録が遅れた場合",
+      "target_file_name": "qa_futankeigen.pdf",
+      "target_chunk_doc_id": "public__qa_futankeigen.pdf__p14",
+      "subset_count": 4,
+      "global_count": 1147,
+      "gap": 4.69
+    },
+    {
+      "tenant": "it",
+      "term": "検査",
+      "query": "スプリント 検査 方法",
+      "target_file_name": "20220422_resources_standard_guidelines_guidebook_01.pdf",
+      "target_chunk_doc_id": "it__20220422_resources_standard_guidelines_guidebook_01.pdf__p26",
+      "subset_count": 1,
+      "global_count": 578,
+      "gap": 8.2
+    },
+    {
+      "tenant": "it",
+      "term": "検査",
+      "query": "開発成果物 検査 について",
+      "target_file_name": "20220422_resources_standard_guidelines_guidebook_01.pdf",
+      "target_chunk_doc_id": "it__20220422_resources_standard_guidelines_guidebook_01.pdf__p26",
+      "subset_count": 1,
+      "global_count": 578,
+      "gap": 8.2
+    },
+    {
+      "tenant": "it",
+      "term": "外国",
+      "query": "暗号化設定 外国の法律",
+      "target_file_name": "000843318.pdf",
+      "target_chunk_doc_id": "it__000843318.pdf__p59",
+      "subset_count": 2,
+      "global_count": 659,
+      "gap": 4.67
+    },
+    {
+      "tenant": "it",
+      "term": "外国",
+      "query": "クラウドサービス 外国の利用規約",
+      "target_file_name": "000843318.pdf",
+      "target_chunk_doc_id": "it__000843318.pdf__p59",
+      "subset_count": 2,
+      "global_count": 659,
+      "gap": 4.67
+    },
+    {
+      "tenant": "finance",
+      "term": "連絡",
+      "query": "連絡先についての情報を探している",
+      "target_file_name": "1c202401.pdf",
+      "target_chunk_doc_id": "finance__1c202401.pdf__p6",
+      "subset_count": 1,
+      "global_count": 631,
+      "gap": 5.98
+    },
+    {
+      "tenant": "finance",
+      "term": "連絡",
+      "query": "調査の連絡先を教えてください",
+      "target_file_name": "1c202401.pdf",
+      "target_chunk_doc_id": "finance__1c202401.pdf__p6",
+      "subset_count": 1,
+      "global_count": 631,
+      "gap": 5.98
+    },
+    {
+      "tenant": "retail",
+      "term": "質問",
+      "query": "期限情報の掲載方法について質問です",
+      "target_file_name": "food_labeling_cms202_221202_01.pdf",
+      "target_chunk_doc_id": "retail__food_labeling_cms202_221202_01.pdf__p14",
+      "subset_count": 1,
+      "global_count": 636,
+      "gap": 6.53
+    },
+    {
+      "tenant": "retail",
+      "term": "質問",
+      "query": "ECサイトの食品表示の認識について質問です",
+      "target_file_name": "food_labeling_cms202_221202_01.pdf",
+      "target_chunk_doc_id": "retail__food_labeling_cms202_221202_01.pdf__p14",
+      "subset_count": 1,
+      "global_count": 636,
+      "gap": 6.53
+    },
+    {
+      "tenant": "manufacturing",
+      "term": "交付",
+      "query": "JASマークの交付手順は？",
+      "target_file_name": "index-11.pdf",
+      "target_chunk_doc_id": "manufacturing__index-11.pdf__p14",
+      "subset_count": 2,
+      "global_count": 1064,
+      "gap": 5.26
+    },
+    {
+      "tenant": "manufacturing",
+      "term": "交付",
+      "query": "交付に必要な手続きは？",
+      "target_file_name": "index-11.pdf",
+      "target_chunk_doc_id": "manufacturing__index-11.pdf__p14",
+      "subset_count": 2,
+      "global_count": 1064,
+      "gap": 5.26
+    },
+    {
+      "tenant": "public",
+      "term": "年金",
+      "query": "年金の仕送りについて知りたい",
+      "target_file_name": "10.pdf",
+      "target_chunk_doc_id": "public__10.pdf__p22",
+      "subset_count": 4,
+      "global_count": 1064,
+      "gap": 4.35
+    },
+    {
+      "tenant": "public",
+      "term": "年金",
+      "query": "企業年金の定義は何ですか",
+      "target_file_name": "10.pdf",
+      "target_chunk_doc_id": "public__10.pdf__p22",
+      "subset_count": 4,
+      "global_count": 1064,
+      "gap": 4.35
+    },
+    {
+      "tenant": "manufacturing",
+      "term": "金額",
+      "query": "金額と改善提案の報酬",
+      "target_file_name": "110329-1a.pdf",
+      "target_chunk_doc_id": "manufacturing__110329-1a.pdf__p51",
+      "subset_count": 1,
+      "global_count": 781,
+      "gap": 7.73
+    },
+    {
+      "tenant": "manufacturing",
+      "term": "金額",
+      "query": "改善提案の金額について知りたい",
+      "target_file_name": "110329-1a.pdf",
+      "target_chunk_doc_id": "manufacturing__110329-1a.pdf__p51",
+      "subset_count": 1,
+      "global_count": 781,
+      "gap": 7.73
+    },
+    {
+      "tenant": "it",
+      "term": "厚生",
+      "query": "厚生労働省 医薬品 添付文書 XML",
+      "target_file_name": "000096537.pdf",
+      "target_chunk_doc_id": "it__000096537.pdf__p37",
+      "subset_count": 1,
+      "global_count": 565,
+      "gap": 8.01
+    },
+    {
+      "tenant": "it",
+      "term": "厚生",
+      "query": "厚生 医薬品 添付文書の変更点",
+      "target_file_name": "000096537.pdf",
+      "target_chunk_doc_id": "it__000096537.pdf__p37",
+      "subset_count": 1,
+      "global_count": 565,
+      "gap": 8.01
+    }
+  ]
+}
